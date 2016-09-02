@@ -3,8 +3,6 @@ require 'rubygems'
 require 'RMagick'
 include Magick
 
-# http://code.google.com/p/blacktree-nocturne/downloads
-
 i = 0
 prev = i
 screen = 1
